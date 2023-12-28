@@ -1,0 +1,781 @@
+
+/*header*/
+@media screen and (max-width: 980px) {
+  #rec662175967 .t451__burger-wrapper__mobile {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-flex: 1;
+        -ms-flex-positive: 1;
+            flex-grow: 1;
+    -ms-flex-negative: 1;
+        flex-shrink: 1;
+    -ms-flex-preferred-size: 33.3333333333%;
+        flex-basis: 33.3333333333%;
+    position: relative;
+    height: 100%;
+    -webkit-box-ordinal-group: 2;
+        -ms-flex-order: 1;
+            order: 1;
+  }
+}
+@media screen and (max-width: 980px) {
+  #rec662175967 .t451__centerside.t451__side {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-flex: 1;
+        -ms-flex-positive: 1;
+            flex-grow: 1;
+    -ms-flex-negative: 1;
+        flex-shrink: 1;
+    -ms-flex-preferred-size: 33.3333333333%;
+        flex-basis: 33.3333333333%;
+    position: relative;
+    height: 100%;
+    margin-right: 0;
+    -webkit-box-ordinal-group: 3;
+        -ms-flex-order: 2;
+            order: 2;
+  }
+}
+@media screen and (max-width: 980px) {
+  #rec662175967 .t451__rightside.t451__side.t451__side_socials {
+    min-width: 33.3333333333%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-flex: 1;
+        -ms-flex-positive: 1;
+            flex-grow: 1;
+    -ms-flex-negative: 1;
+        flex-shrink: 1;
+    -ms-flex-preferred-size: auto;
+        flex-basis: auto;
+    position: relative;
+    height: 100%;
+    -webkit-box-pack: end;
+        -ms-flex-pack: end;
+            justify-content: flex-end;
+    -webkit-box-ordinal-group: 4;
+        -ms-flex-order: 3;
+            order: 3;
+  }
+}
+
+.uc-main-header .tmenu-mobile.tmenu-mobile_positionfixed {
+  -webkit-box-shadow: 0px 4px 20px 0px rgba(196, 196, 196, 0.45);
+          box-shadow: 0px 4px 20px 0px rgba(196, 196, 196, 0.45);
+}
+
+/*Главный баннер в мобилке*/
+.uc-main-banner {
+  margin-top: 88px;
+}
+@media (min-width: 981px) {
+  .uc-main-banner {
+    margin-top: 95px;
+  }
+}
+@media screen and (max-width: 960px) {
+  .uc-main-banner .t-cover, .uc-main-banner .t-cover__carrier.loaded, .uc-main-banner .t-cover__filter {
+    aspect-ratio: 2/1;
+    height: auto !important;
+  }
+}
+
+/*Текстовый блок на мобилке*/
+.uc-main-banner {
+  margin-top: -93px;
+  margin-bottom: -85px;
+}
+.uc-main-banner .t-cover, .uc-main-banner .t-cover__filter {
+  background-color: transparent !important;
+  background-image: none !important;
+}
+@media screen and (min-width: 480px) {
+  .uc-main-banner {
+    margin-top: -117px;
+    margin-bottom: -190px;
+  }
+}
+@media screen and (min-width: 640px) {
+  .uc-main-banner {
+    margin-top: -170px;
+    margin-bottom: -108px;
+  }
+}
+@media screen and (min-width: 961px) {
+  .uc-main-banner {
+    margin-top: -540px;
+    margin-bottom: -160px;
+  }
+}
+@media screen and (min-width: 1201px) {
+  .uc-main-banner {
+    margin-top: -555px;
+    margin-bottom: -145px;
+  }
+}
+@media screen and (min-width: 961px) {
+  .uc-main-banner .t-col_7 {
+    max-width: 580px;
+  }
+}
+
+/*Главный баннер на десктопе и текстовый блок на мобилке*/
+.uc-main-banner .t189__wrapper {
+  background-color: white;
+  border-radius: 3px;
+  -webkit-box-shadow: 0px 4px 20px 0px rgba(196, 196, 196, 0.45);
+          box-shadow: 0px 4px 20px 0px rgba(196, 196, 196, 0.45);
+  padding-left: 20px;
+  padding-right: 20px;
+}
+@media screen and (min-width: 961px) {
+  .uc-main-banner .t189__wrapper {
+    padding: 40px 25px;
+  }
+}
+.uc-main-banner .t189__title {
+  letter-spacing: normal;
+}
+.uc-main-banner .t189__descr a {
+  position: relative;
+}
+.uc-main-banner .t189__descr a::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -5px;
+  width: 100%;
+  height: 1px;
+  background-color: #C51C1C;
+}
+.uc-main-banner .t189__descr a::after {
+  content: "";
+  position: absolute;
+  right: -26px;
+  top: 50%;
+  width: 21px;
+  height: 8px;
+  -webkit-transform: translateY(-25%);
+          transform: translateY(-25%);
+  background-image: url("https://static.tildacdn.com/tild3735-3836-4461-b831-343234303231/arrow.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+.uc-main-banner .t189__wrapper > div .t-btnwrapper .t-btn {
+  position: relative;
+  -webkit-box-shadow: 0px 4px 20px 0px rgba(196, 196, 196, 0.45);
+          box-shadow: 0px 4px 20px 0px rgba(196, 196, 196, 0.45);
+  padding-left: 72px;
+}
+.uc-main-banner .t189__wrapper > div .t-btnwrapper .t-btn::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 30px;
+  width: 24px;
+  height: 24px;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.uc-main-banner .t189__wrapper > div .t-btnwrapper:nth-child(1) .t-btn::before {
+  background-image: url("https://static.tildacdn.com/tild3437-6539-4439-a430-376336656362/mortgage.svg");
+}
+.uc-main-banner .t189__wrapper > div .t-btnwrapper:nth-child(2) .t-btn::before {
+  background-image: url("https://static.tildacdn.com/tild3033-3063-4630-a438-376336376264/sale.svg");
+}
+
+/*О нас*/
+.uc-about .t799__title strong {
+  font-size: 16px;
+  color: #333;
+  display: block;
+  margin-top: 12px;
+}
+
+/*Каталог*/
+.uc-catalog .t-store__parts-switch-btn.t-active {
+  opacity: 1;
+  color: #c51c1c;
+}
+.uc-catalog .t-store .t-store__card__wrap_all {
+  border-radius: 3px;
+  border: 1px solid #DADAE5;
+  background: #FFF;
+}
+.uc-catalog .t-store__card__textwrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+}
+.uc-catalog .t-store__card .t-typography__title {
+  width: 100%;
+  -webkit-box-flex: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+  -webkit-box-ordinal-group: 2;
+      -ms-flex-order: 1;
+          order: 1;
+}
+.uc-catalog .t-store__card .t-typography__descr {
+  display: inline-block;
+  -webkit-box-ordinal-group: 4;
+      -ms-flex-order: 3;
+          order: 3;
+}
+.uc-catalog .t-store__card__price-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-ordinal-group: 3;
+      -ms-flex-order: 2;
+          order: 2;
+}
+.uc-catalog .t-store__card__price {
+  -webkit-box-ordinal-group: 3;
+      -ms-flex-order: 2;
+          order: 2;
+  color: #47477F !important;
+}
+.uc-catalog .t-store__card__price_old {
+  -webkit-box-ordinal-group: 2;
+      -ms-flex-order: 1;
+          order: 1;
+  font-size: 12px !important;
+  color: #7E7EA5 !important;
+}
+.uc-catalog .t-popup.t-popup_show {
+  background: rgba(255, 255, 255, 0.8) !important;
+}
+.uc-catalog .t-store__prod-popup__container {
+  background: #FFF;
+  -webkit-box-shadow: 0px 4px 50px 0px rgba(148, 148, 148, 0.25);
+          box-shadow: 0px 4px 50px 0px rgba(148, 148, 148, 0.25);
+}
+.uc-catalog .t-store__prod-popup__price-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+}
+.uc-catalog .t-popup .t-store__prod-popup__price {
+  -webkit-box-ordinal-group: 3;
+      -ms-flex-order: 2;
+          order: 2;
+  color: #47477F !important;
+}
+.uc-catalog .t-popup .t-store__prod-popup__price_old {
+  -webkit-box-ordinal-group: 2;
+      -ms-flex-order: 1;
+          order: 1;
+  font-size: 12px !important;
+  color: #7E7EA5 !important;
+}
+@media screen and (max-width: 560px) {
+  .uc-catalog .t-popup__close {
+    background-color: rgba(255, 255, 255, 0.8) !important;
+  }
+}
+.uc-catalog .t-slds__container {
+  background-color: transparent !important;
+  border-radius: 3px;
+  border: 1px solid #DADAE5;
+}
+
+/*Знакомьтесь. Компания застройщика*/
+.uc-advantages .t-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  padding: 0 20px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-column-gap: 20px;
+     -moz-column-gap: 20px;
+          column-gap: 20px;
+  row-gap: 30px;
+}
+.uc-advantages .t-container:before, .uc-advantages .t-container:after {
+  display: none !important;
+}
+.uc-advantages .t-clear.t490__separator {
+  display: none !important;
+}
+.uc-advantages .t-item {
+  border-radius: 3px;
+  background: #FFF;
+  -webkit-box-shadow: 0px 4px 20px 0px rgba(196, 196, 196, 0.45);
+          box-shadow: 0px 4px 20px 0px rgba(196, 196, 196, 0.45);
+  padding: 15px;
+  margin: 0;
+  width: 240px;
+  max-width: unset;
+  -webkit-box-flex: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+}
+
+/*Форма Ипотека от 5%*/
+@media (min-width: 961px) {
+  .uc-mortgage-form .t700 {
+    position: relative;
+    padding-top: 25px;
+    padding-bottom: 30px;
+  }
+  .uc-mortgage-form .t700::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url("https://static.tildacdn.com/tild6639-6635-4631-b264-363830656564/b34b5870675abe336657.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
+    z-index: -1;
+  }
+}
+@media (min-width: 961px) and (min-width: 1201px) {
+  .uc-mortgage-form .t700::before {
+    width: 980px;
+    left: 50%;
+    -webkit-transform: translateX(-400px);
+            transform: translateX(-400px);
+  }
+}
+@media (min-width: 961px) {
+  .uc-mortgage-form .t700__img.t-img {
+    opacity: 0;
+  }
+}
+@media (min-width: 961px) {
+  .uc-mortgage-form .t700__nomargin {
+    border-radius: 3px;
+    background: #FFF;
+    -webkit-box-shadow: 0px 4px 20px 0px rgba(196, 196, 196, 0.45);
+            box-shadow: 0px 4px 20px 0px rgba(196, 196, 196, 0.45);
+    padding: 20px;
+  }
+}
+@media (min-width: 1201px) {
+  .uc-mortgage-form .t700__nomargin {
+    padding: 35px 40px 40px 40px;
+  }
+}
+
+/*Документы*/
+.uc-docs .t1059__link .t-descr {
+  -webkit-transition: 0.2s;
+  transition: 0.2s;
+}
+.uc-docs .t1059__link:hover .t-descr, .uc-docs .t1059__link:focus .t-descr {
+  color: #c51c1c;
+}
+.uc-docs .t1059__row {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr;
+  grid-template-columns: 1fr;
+}
+@media (min-width: 641px) {
+  .uc-docs .t1059__row {
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+  }
+}
+@media (min-width: 961px) {
+  .uc-docs .t1059__row {
+    -ms-grid-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+/*Галерея*/
+@media (min-width: 641px) {
+  .uc-gallery .t-slds__arrow_wrapper-left {
+    left: 50%;
+    -webkit-transform: translateX(-320px);
+            transform: translateX(-320px);
+  }
+}
+@media (min-width: 641px) and (min-width: 961px) {
+  .uc-gallery .t-slds__arrow_wrapper-left {
+    -webkit-transform: translateX(-490px);
+            transform: translateX(-490px);
+  }
+}
+@media (min-width: 641px) and (min-width: 1201px) {
+  .uc-gallery .t-slds__arrow_wrapper-left {
+    -webkit-transform: translateX(-600px);
+            transform: translateX(-600px);
+  }
+}
+@media (min-width: 641px) {
+  .uc-gallery .t-slds__arrow_wrapper-right {
+    right: 50%;
+    -webkit-transform: translateX(320px);
+            transform: translateX(320px);
+  }
+}
+@media (min-width: 641px) and (min-width: 961px) {
+  .uc-gallery .t-slds__arrow_wrapper-right {
+    -webkit-transform: translateX(490px);
+            transform: translateX(490px);
+  }
+}
+@media (min-width: 641px) and (min-width: 1201px) {
+  .uc-gallery .t-slds__arrow_wrapper-right {
+    -webkit-transform: translateX(600px);
+            transform: translateX(600px);
+  }
+}
+.uc-gallery .t-slds__arrow {
+  border-radius: 3px;
+  background: #FFF;
+  -webkit-box-shadow: 0px 4px 20px 0px rgba(196, 196, 196, 0.45);
+          box-shadow: 0px 4px 20px 0px rgba(196, 196, 196, 0.45);
+}
+@media (min-width: 641px) {
+  .uc-gallery .t-slds__arrow-right {
+    right: 0;
+  }
+}
+@media (min-width: 641px) {
+  .uc-gallery .t-slds__arrow-left {
+    left: 0;
+  }
+}
+.uc-gallery .t-slds__title {
+  font-size: 16px;
+  font-weight: 400;
+}
+.uc-gallery .t-slds__caption_wrapper {
+  border-bottom: 1px solid #DADAE5;
+}
+
+/*Хотите увидеть свою будущую квартиру? с формой*/
+@media (min-width: 961px) {
+  .uc-excursion-text {
+    position: relative;
+  }
+  .uc-excursion-text::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    width: 1200px;
+    z-index: -1;
+    background: #F6F6F6;
+    -webkit-transform: translateX(-790px);
+            transform: translateX(-790px);
+  }
+  .uc-excursion-text .t-col {
+    width: 50%;
+  }
+}
+@media (min-width: 1201px) {
+  .uc-excursion-text::before {
+    width: 2000px;
+    -webkit-transform: translateX(-1520px);
+            transform: translateX(-1520px);
+  }
+}
+
+.uc-excursion-form .t-section__container.t-container {
+  display: none;
+}
+.uc-excursion-form .t700 .t700__col:first-child {
+  margin-bottom: 0;
+}
+@media (min-width: 961px) {
+  .uc-excursion-form {
+    padding-bottom: 165px !important;
+  }
+  .uc-excursion-form .t-container.t-container_flex {
+    position: relative;
+  }
+}
+@media (min-width: 961px) and (min-width: 961px) {
+  .uc-excursion-form .t700__nomargin {
+    position: absolute;
+    width: 100%;
+    top: -277px;
+    right: 0;
+    border-radius: 3px;
+    background: #FFF;
+    -webkit-box-shadow: 0px 4px 20px 0px rgba(196, 196, 196, 0.45);
+            box-shadow: 0px 4px 20px 0px rgba(196, 196, 196, 0.45);
+    padding: 20px;
+  }
+}
+@media (min-width: 961px) and (min-width: 1201px) {
+  .uc-excursion-form .t700__nomargin {
+    top: -210px;
+    padding: 35px 40px 40px 40px;
+  }
+}
+@media (min-width: 1201px) {
+  .uc-excursion-form {
+    padding-bottom: 245px !important;
+  }
+  .uc-excursion-form .t700 {
+    top: -205px;
+  }
+}
+
+/*Контакты*/
+.uc-contacts .t554__card {
+  background: #FFF;
+  -webkit-box-shadow: 0px 4px 20px 0px rgba(196, 196, 196, 0.45);
+          box-shadow: 0px 4px 20px 0px rgba(196, 196, 196, 0.45);
+  padding: 20px;
+  max-width: unset !important;
+}
+@media (min-width: 961px) {
+  .uc-contacts .t554__card {
+    max-width: 265px !important;
+  }
+}
+@media (min-width: 1201px) {
+  .uc-contacts .t554__card {
+    padding: 35px 40px 45px;
+    max-width: 380px !important;
+  }
+}
+.uc-contacts .t554__card-wrapper {
+  padding: 20px;
+}
+.uc-contacts .t-text ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  gap: 25px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 20px;
+}
+.uc-contacts .t-text ul > li {
+  position: relative;
+  padding-left: 40px;
+}
+.uc-contacts .t-text ul > li::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+.uc-contacts .t-text ul > li:nth-child(1)::before {
+  background-image: url("https://static.tildacdn.com/tild6633-6237-4632-a466-343237666432/pin.svg");
+}
+.uc-contacts .t-text ul > li:nth-child(2)::before {
+  background-image: url("https://static.tildacdn.com/tild3335-3065-4133-b736-636631343336/clock.svg");
+}
+.uc-contacts .t-text ul > li:nth-child(3)::before {
+  background-image: url("https://static.tildacdn.com/tild6138-6361-4531-b066-306238613533/Call.svg");
+}
+.uc-contacts .t-text > a {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  text-align: center;
+  height: 60px;
+  font-size: 16px;
+  padding-left: 60px;
+  padding-right: 60px;
+  white-space: nowrap;
+  background-image: none;
+  cursor: pointer;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background: 0 0;
+  color: #ffffff;
+  border: 1px solid #c51c1c;
+  background-color: #c51c1c;
+  border-radius: 3px;
+  font-weight: 400;
+  max-width: 300px;
+}
+
+/*Появились вопросы? с формой*/
+.uc-consult-text .t795__descr ul {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  gap: 0.5em;
+}
+.uc-consult-text .t795__descr ul li a {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  width: 13px;
+  height: 13px;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.uc-consult-text .t795__descr ul li a strong {
+  position: absolute;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  margin: -1px;
+  padding: 0;
+  width: 1px;
+  height: 1px;
+  border: 0;
+  white-space: nowrap;
+  -webkit-clip-path: inset(100%);
+          clip-path: inset(100%);
+}
+.uc-consult-text .t795__descr ul li:nth-child(2) a {
+  background-image: url("https://static.tildacdn.com/tild3965-3332-4164-a235-383139373535/whatsapp_1.svg");
+}
+.uc-consult-text .t795__descr ul li:nth-child(3) a {
+  background-image: url("https://static.tildacdn.com/tild3939-6238-4132-b263-373666656263/viber.svg");
+}
+@media (min-width: 961px) {
+  .uc-consult-text .t-col {
+    width: 50%;
+  }
+}
+
+.uc-consult-form .t-section__container.t-container {
+  display: none;
+}
+.uc-consult-form .t700 .t700__col:first-child {
+  margin-bottom: 0;
+}
+@media (min-width: 961px) {
+  .uc-consult-form {
+    padding-bottom: 165px !important;
+  }
+  .uc-consult-form .t-container.t-container_flex {
+    position: relative;
+  }
+}
+@media (min-width: 961px) and (min-width: 961px) {
+  .uc-consult-form .t700__nomargin {
+    position: absolute;
+    width: 100%;
+    top: -210px;
+    right: 0;
+    border-radius: 3px;
+    background: #FFF;
+    -webkit-box-shadow: 0px 4px 20px 0px rgba(196, 196, 196, 0.45);
+            box-shadow: 0px 4px 20px 0px rgba(196, 196, 196, 0.45);
+    padding: 20px;
+  }
+}
+@media (min-width: 961px) and (min-width: 1201px) {
+  .uc-consult-form .t700__nomargin {
+    top: -210px;
+    padding: 35px 40px 40px 40px;
+  }
+}
+@media (min-width: 1201px) {
+  .uc-consult-form {
+    padding-bottom: 245px !important;
+  }
+  .uc-consult-form .t700 {
+    top: -205px;
+  }
+}
+
+/*Попапы*/
+.uc-popup .t-popup_show .t-popup__container {
+  -webkit-box-shadow: 0px 4px 20px 0px rgba(196, 196, 196, 0.45);
+          box-shadow: 0px 4px 20px 0px rgba(196, 196, 196, 0.45);
+}
+@media screen and (max-width: 560px) {
+  .uc-popup .t702 .t-popup__block-close {
+    background: white !important;
+  }
+}
+
+.uc-header--mobile .t456__maincontainer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.uc-header--mobile .t456__imglogo {
+  margin: 0;
+  padding: 0;
+}
